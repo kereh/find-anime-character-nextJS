@@ -1,0 +1,13 @@
+{
+    "name": "find-anime-character",
+    "short_name": "RPS",
+    "icons": [{
+        "src": "Anime.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    }],
+    "theme_color": "#23272E",
+    "background_color": "#23272E",
+    "start_url": "/",
+    "display": "standalone"
+}
